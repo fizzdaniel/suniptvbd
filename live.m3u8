@@ -1,0 +1,65 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,RTV Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDIxIDE6MDc6MzIgQU0maGFzaF92YWx1ZT1PVnJodUY5NXVXSys2VVQyRjdKZTd3PT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Magic Bangla
+http://103.108.145.94:1935/magicbangla/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,HTV
+http://enaniptv.com/Htv/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" , Sristy TV
+http://iptvbd.jagobd.com:1931/boishakhi/sristytv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Cumilla 24
+http://iptvbd.jagobd.com:1931/boishakhi/cumilla24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Bangla 21 TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDg6Mjc6MTUgQU0maGFzaF92YWx1ZT1tMkNNT3g2aE1PeVdWQWQvTm8rejlnPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,71 Bangla HD
+http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Boishakhi Plus
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" , Channel 23 HD
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" , Movie Bangla
+http://iptvbd.jagobd.com:1931/boishakhi/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,my Cinema
+http://iptvbd.jagobd.com:1931/boishakhi/mycinema-up2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Alpona TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDc6MDA6MTkgQU0maGFzaF92YWx1ZT1vQU9VM0tkQ1NVd1JvcVhneTl2R0JnPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Voice TV
+http://iptvbd.jagobd.com:1931/boishakhi/voicetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Royal TV
+http://iptvbd.jagobd.com:1931/boishakhi/royaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,JoyJatra TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDc6MDU6MTEgQU0maGFzaF92YWx1ZT1zc2lwV0Y1QW8wTDJONGEzOFZ5YUZRPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" , Millennium News 24
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDc6MDU6NDggQU0maGFzaF92YWx1ZT1IejRKSEtEUVN0K3hRZzV0WUhlNDl3PT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" , Millennium TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDc6MDY6MjUgQU0maGFzaF92YWx1ZT1UQnMzYmV3L2RPY0NFTTJ1WXJYT01BPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Nokshi TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDc6MDc6MDMgQU0maGFzaF92YWx1ZT1CR1gwUFJpck9rNVMzTGZvUXg2MjlRPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Flaah TV
+http://irbtv.net/flashtv1/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Dhaka 24 TV
+http://enaniptv.com/tvdhaka24live/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" , Channel T1
+http://irbtv.net/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,TV 7
+http://irbtv.net/flashtv/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,RNN TV
+http://enaniptv.com/rnntv/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,Rupantor TV
+http://206.189.32.183/rupantortv/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,ATN Islamic TV
+http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,ATN Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDc6MjU6MDkgQU0maGFzaF92YWx1ZT1VbHJ2UkF3Q1RFM3c1Y0ltZGhwcU9RPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="Bangladeshi IPTV" ,PAN Vision TV
+http://iptvbd.jagobd.com:1931/boishakhi/panvisiontvs.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="International" , CNN
+http://103.157.237.18:8000/play/1002
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="International" ,BBC World News
+http://103.157.237.18:8000/play/1001
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="International" ,Aljazeera
+http://103.157.237.18:8000/play/1005
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYsFj79/IMG-20210723-134226-1.png" group-title="International" ,Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
